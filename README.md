@@ -24,5 +24,6 @@ The script uses few other projects and libraries:
  - Add property file for other configurations.
 
 **Free scripts ? Hell Yeah!**
+
    [pandas]: <https://pandas.pydata.org/>
    [python]: <https://www.python.org/>
