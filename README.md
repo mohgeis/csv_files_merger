@@ -15,7 +15,7 @@ $ python filesmerger.py inputFile-1.csv inputFile-2.csv outFile.csv
 ```
 ### Tech
 The script uses few other projects and libraries:
-* [Python] - awesome web-based text editor
+* [Python] - One of the largest snakes in the world (wikipedia)
 * [Pandas] - easy-to-use data structures and data analysis tools.
 
 ### Todos
