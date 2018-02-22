@@ -23,6 +23,11 @@ The script uses few other projects and libraries:
  - Option to specify files seperators (eg. "," "\t" "|" etc..)
  - Add property file for other configurations.
 
+### Links
+- GitHub: https://github.com/mohgeis/csv_files_merger
+- webpage: https://mohgeis.github.io/csv_files_merger/
+
+
 **Free scripts ? Hell Yeah!**
 
    [pandas]: <https://pandas.pydata.org/>
